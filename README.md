@@ -4,7 +4,7 @@ A React app that helps a crypto investor see, in real time, how selling specific
 holdings before the financial year ends ("harvesting" losses) reduces their
 taxable capital gains.
 
-**Live demo:** https://tax-loss-harvesting-ashy.vercel.app/
+**Live demo:** [Click Here] (https://tax-loss-harvesting-ashy.vercel.app/)
 **Figma reference:** [KoinX Frontend Intern Assignment](https://www.figma.com/design/3YqHlvx1X59Nb3iP97BGkG/KoinX-Frontend-Intern-Assigment)
 
 ---
